@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=VT323&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#Restart {
+  font-family: 'VT323', monospace;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0.2em 0.3em;
+  border: 0.1em solid black;
+  font-size: 1.5em;
+  font-weight: 500;
+  cursor: pointer;
+}
