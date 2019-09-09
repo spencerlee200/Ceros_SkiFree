@@ -147,6 +147,6 @@ As mentioned in the Scoring section there is now a difficulty level based on the
 
 Finally there is an animated endframe with the rhino eating the skier. At the end of this animation a button appears which will allow you to restart the game. The endframe will also give the player their high score which is stored in their browsers local storage so that they can challenge themselves to do better each time they play. My current high score is 9609. Lets see if you can do better!
 
-### Play it live at https://thespencerlee.nyc/Ceros_SkiFree/dist/
+### [Play it live at thespencerlee.nyc/Ceros_SkiFree/dist/](https://thespencerlee.nyc/Ceros_SkiFree/dist/)
 
 
